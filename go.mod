@@ -1,6 +1,6 @@
 module github.com/pmeier/zerr
 
-go 1.23.7
+go 1.23
 
 require github.com/rs/zerolog v1.34.0
 
